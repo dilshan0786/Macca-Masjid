@@ -139,9 +139,15 @@ footer {
     align-items: center;
 }
 
+.donor-list ul li span {
+    width: 30%; /* Ensures alignment */
+    text-align: center;
+}
+
 .donor-list ul li:last-child {
     border-bottom: none;
 }
+
 
 
 @media (max-width: 600px){
