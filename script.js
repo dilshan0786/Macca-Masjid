@@ -22,7 +22,7 @@ function changeSlide() {
 setInterval(changeSlide, 3000);
 
 // Updated Financial Data
-let totalCollection = 9862;
+let totalCollection = 11712;
 let totalExpenses = 800;
 let balance = totalCollection - totalExpenses;
 
