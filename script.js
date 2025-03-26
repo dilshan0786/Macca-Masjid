@@ -22,7 +22,7 @@ function changeSlide() {
 setInterval(changeSlide, 3000);
 
 // Updated Financial Data
-let totalCollection = 12063;
+let totalCollection = 12364;
 let totalExpenses = 8599;
 let balance = totalCollection - totalExpenses;
 
@@ -50,7 +50,8 @@ window.onload = function() {
 
 // Donor Data
 let donors = [
-    { name: "Nasir Husain", amount: 300 },
+    { name: "Izhar ansari", amount: 301 },
+  { name: "Nasir Husain", amount: 300 },
     { name: "Rahil", amount: 51 }
     
 ];
