@@ -22,8 +22,8 @@ function changeSlide() {
 setInterval(changeSlide, 3000);
 
 // Updated Financial Data
-let totalCollection = 19186;
-let totalExpenses = 11799;
+let totalCollection = 19686;
+let totalExpenses = 16299;
 let balance = totalCollection - totalExpenses;
 
 // Fast Animation (2-3 seconds)
