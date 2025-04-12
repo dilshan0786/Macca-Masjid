@@ -50,9 +50,9 @@ window.onload = function() {
 
 // Donor Data
 let donors = [
-    { name: "Izhar ansari", amount: 301 },
-  { name: "Nasir Husain", amount: 300 },
-    { name: "Rahil", amount: 51 }
+    { name: "Dildar Alam", amount: 100 },
+  { name: "Izhar ansari", amount: 301 },
+  { name: "Nasir Husain", amount: 300 }
     
 ];
 
